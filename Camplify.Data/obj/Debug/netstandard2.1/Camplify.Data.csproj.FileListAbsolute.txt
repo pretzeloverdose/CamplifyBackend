@@ -1,0 +1,12 @@
+C:\Users\pretz\source\repos\camplify\Camplify.Data\bin\Debug\netstandard2.1\Camplify.Data.deps.json
+C:\Users\pretz\source\repos\camplify\Camplify.Data\bin\Debug\netstandard2.1\Camplify.Data.dll
+C:\Users\pretz\source\repos\camplify\Camplify.Data\bin\Debug\netstandard2.1\Camplify.Data.pdb
+C:\Users\pretz\source\repos\camplify\Camplify.Data\bin\Debug\netstandard2.1\Camplify.Core.dll
+C:\Users\pretz\source\repos\camplify\Camplify.Data\bin\Debug\netstandard2.1\Camplify.Core.pdb
+C:\Users\pretz\source\repos\camplify\Camplify.Data\obj\Debug\netstandard2.1\Camplify.Data.csprojAssemblyReference.cache
+C:\Users\pretz\source\repos\camplify\Camplify.Data\obj\Debug\netstandard2.1\Camplify.Data.AssemblyInfoInputs.cache
+C:\Users\pretz\source\repos\camplify\Camplify.Data\obj\Debug\netstandard2.1\Camplify.Data.AssemblyInfo.cs
+C:\Users\pretz\source\repos\camplify\Camplify.Data\obj\Debug\netstandard2.1\Camplify.Data.csproj.CoreCompileInputs.cache
+C:\Users\pretz\source\repos\camplify\Camplify.Data\obj\Debug\netstandard2.1\Camplify.Data.csproj.CopyComplete
+C:\Users\pretz\source\repos\camplify\Camplify.Data\obj\Debug\netstandard2.1\Camplify.Data.dll
+C:\Users\pretz\source\repos\camplify\Camplify.Data\obj\Debug\netstandard2.1\Camplify.Data.pdb
